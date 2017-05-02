@@ -1,0 +1,5 @@
+**/.ipynb_checkpoints
+**/*tar.gz
+**/*pickle
+notebooks/notMNIST_large
+notebooks/notMNIST_small
